@@ -1,3 +1,4 @@
+[linux-for-bioinformatics_certificate_of_achievement_ajv9i46.pdf](https://github.com/shah-minhaj-abedin/shah-minhaj-abedin/files/7021277/linux-for-bioinformatics_certificate_of_achievement_ajv9i46.pdf)
 - 👋 Hi, I’m @shah-minhaj-abedin, a microbiology student in University of Dhaka. I have avid interest in Biological Data science. I also write feature articles in Bangla.  
 - 👀 I’m interested in bioinformatics, virology, immunology and public health. I have also interest in climate change, history of science and anthropology. 
 - 🌱 I’m currently learning Linux, R and Python.
