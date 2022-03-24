@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shah-minhaj-abedin, a microbiology student in University of Dhaka. I have avid interest in Biological Data science. I also write feature articles in Bangla.  
+- 👋 Hi, I’m @shah-minhaj-abedin, a microbiology student in University of Dhaka. I have an avid interest in Biological Data science. I also write feature articles in Bangla.  
 - 👀 I’m interested in bioinformatics, virology, immunology and public health. I have also interest in climate change, history of science and anthropology. 
 - 🌱 I’m currently learning Linux, R and Python and MATLAB.
 - 💞️ I’m looking to collaborate on bioinformatics projects, disease modelling, proteomics data. 
